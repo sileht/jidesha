@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Jitsi Desktop Streamer",
-  "description": "A simple extension that allows you to stream your desktop into meetings with Jitsi Meet and Jitsi Videobridge.",
+  "name": "Jitsi Desktop Streamer for jitsi.tetaneutral.net",
+  "description": "A simple extension that allows you to stream your desktop into meetings with Jitsi Meet and Jitsi Videobridge. (For jitsi.tetaneutral.net)",
   "version": "0.1.6",
   "minimum_chrome_version": "34",
   "icons": {
@@ -18,7 +18,7 @@
   ],
   "externally_connectable": {
       "matches": [
-          "*://meet.jit.si/*"
+          "*://jitsi.tetaneutral.net/*"
       ]
   }
 }

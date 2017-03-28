@@ -5,9 +5,10 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>JIDESHA_EXT_ID</em:id>
-    <em:name>Jidesha</em:name>
-    <em:description>Jitsi-Meet Desktop Sharing: enables screen sharing for the Jitsi-Meet application.</em:description>
-    <em:version>0.1.1</em:version>
+    <em:name>Jidesha for jitsi.tetaneutral.net</em:name>
+    <em:description>Jitsi-Meet Desktop Sharing: enables screen sharing for the Jitsi-Meet application (for jitsi.tetaneutral.net).</em:description>
+    <em:version>0.1.1.2</em:version>
+    <em:updateURL>https://jitsi.tetaneutral.net/screen-sharing-jitsi-tetaneutral.rdf</em:updateURL>
     <em:creator>Jitsi</em:creator>
     <em:homepageURL>https://github.com/jitsi/jidesha/</em:homepageURL>
     <em:type>2</em:type>
